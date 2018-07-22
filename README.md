@@ -6,7 +6,7 @@
 
 如果你还不了解 Colab Notebook，那么简单来说就是云端的 Jupyter Notebook，并且 TensorFlow 等常用库已经配置好。详情可参见 [Colaboratory 简介 - Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) 和 [Colab: An easy way to learn and use TensorFlow – TensorFlow – Medium](https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d1686e309)。
 
-## 目录：
+## 目录
 
 ### Estimators
 

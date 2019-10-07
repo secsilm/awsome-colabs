@@ -17,4 +17,9 @@
 
 ### nlp
 
-- [TransferLearningNLP.ipynb](https://github.com/secsilm/awsome-colabs/blob/master/nlp/classification/TransferLearningNLP.ipynb)：这个 notebook 是关于 Howard&Ruder 的论文[《Universal Language Model Fine-tuning for Text Classification》](https://arxiv.org/pdf/1801.06146.pdf)在[亚马逊评论数据集](https://www.kaggle.com/bittlingmayer/amazonreviews/home)上的重现。
+- [TransferLearningNLP.ipynb](https://github.com/secsilm/awsome-colabs/blob/master/nlp/classification/TransferLearningNLP.ipynb)：这个 notebook 是关于 Howard&Ruder 的论文[《Universal Language Model Fine-tuning for Text Classification》](https://arxiv.org/pdf/1801.06146.pdf)在[亚马逊评论数据集](https://www.kaggle.com/bittlingmayer/amazonreviews/home)上的重现
+
+### 待整理
+
+- [TensorFlow_2_0_+_Keras_Crash_Course.ipynb](https://github.com/secsilm/awsome-colabs/blob/master/TensorFlow_2_0_%2B_Keras_Crash_Course.ipynb)：这个是 [François Chollet 写的](https://twitter.com/fchollet/status/1180590885265756160?s=20)关于 TensorFlow 2.0 和 Keras 的简单教程，主要是 TF2 的新 API 和 Keras API 的介绍
+ 
